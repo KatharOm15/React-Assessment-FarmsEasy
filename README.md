@@ -5,33 +5,6 @@ It displays user data fetched from an API in a **tabular format** with **paginat
 
 ---
 
-## 📁 Project Structure
-
-FARMSEASY ASSESSMENT/
-│
-├── user-data-with-pagination/
-│ ├── node_modules/ # Project dependencies
-│ ├── public/ # Public assets and index.html entry
-│ ├── src/
-│ │ ├── assets/ # (Optional) Static assets like images or icons
-│ │ ├── components/
-│ │ │ └── user/
-│ │ │ └── User.jsx # Component to display paginated user data
-│ │ ├── App.jsx # Root component integrating User component
-│ │ ├── App.css # Styling for main app
-│ │ ├── index.css # Global styles
-│ │ └── main.jsx # React entry file
-│ │
-│ ├── .gitignore
-│ ├── eslint.config.js
-│ ├── index.html
-│ ├── package.json
-│ ├── package-lock.json
-│ ├── vite.config.js # Vite configuration
-│ └── README.md
-
-
----
 
 ## ⚙️ How to Run the App
 
